@@ -1,15 +1,15 @@
 pytest-django-sqlcount
 ======================
 
-.. image:: https://pypip.in/download/pytest-django-sqlcount.png
+.. image:: https://img.shields.io/pypi/dm/pytest-django-sqlcount.png.svg
     :target: https://pypi.python.org/pypi//pytest-django-sqlcount/
     :alt: Downloads
 
-.. image:: https://pypip.in/version/pytest-django-sqlcount/.png
+.. image:: https://img.shields.io/pypi/v/pytest-django-sqlcount.svg
     :target: https://pypi.python.org/pypi/pytest-django-sqlcount/
     :alt: Latest Version
 
-.. image:: https://pypip.in/license/pytest-django-sqlcount/.png
+.. image:: https://img.shields.io/pypi/l/pytest-django-sqlcount.svg
     :target: https://pypi.python.org/pypi/pytest-django-sqlcount/
     :alt: License
 
